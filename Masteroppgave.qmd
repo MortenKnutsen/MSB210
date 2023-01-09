@@ -3,6 +3,7 @@ title: "Masteroppgave"
 author: "Morten Knutsen og Sindre M. Espedal"
 format: pdf
 editor: visual
+bibliography: referanser_msb210/referanser_msb210.bib
 ---
 
 ## Beskrivelse
@@ -11,4 +12,8 @@ editor: visual
 
 ### Capello/Hoyts
 
+Roberta Capello er en inspirerende kvinne [@capello2015].
+
 ### McCann
+
+## References
