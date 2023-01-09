@@ -1,0 +1,14 @@
+---
+title: "Masteroppgave"
+author: "Morten Knutsen og Sindre M. Espedal"
+format: pdf
+editor: visual
+---
+
+## Beskrivelse
+
+# Baseteori
+
+### Capello/Hoyts
+
+### McCann
