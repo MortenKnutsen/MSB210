@@ -8,8 +8,6 @@ bibliography: referanser_msb210/referanser_msb210.bib
 
 ## Beskrivelse
 
-Vi har vært i kontakt med beyonder
-
 # Baseteori
 
 ### Capello/Hoyts
